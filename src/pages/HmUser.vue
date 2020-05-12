@@ -1,5 +1,5 @@
 <template>
-  <div>我是用户中心</div>
+  <div>我是用户中心1</div>
 </template>
 <script>
 export default {};
